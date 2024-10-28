@@ -79,10 +79,7 @@ python main.py
 
 [Demo Podcast](output/20241028_112312/podcast.mp3)
 
-<audio controls>
-  <source src="output/20241028_112312/podcast.mp3" type="audio/mpeg">
-  Your browser does not support the audio element.
-</audio>
+
 
 ## 📄 许可证
 
@@ -214,8 +211,3 @@ You can listen to the demo podcast here:
 
 [Demo Podcast](output/20241028_112312/podcast.mp3)
 
-<audio controls>
-  <source src="output/20241028_112312/podcast.mp3" type="audio/mpeg">
-  Your browser does not support the audio element.
-</audio>
-    
