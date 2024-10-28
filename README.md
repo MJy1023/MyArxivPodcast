@@ -5,13 +5,13 @@
 ---
 <a name="chinese"></a>
 
-# 🎙️ AI 科技新闻播客生成器
+# 🎙️ Arxiv学术论文播客生成器
 
-🤖 这是一个基于人工智能的科技新闻播客自动生成系统。该系统可以自动爬取最新的科技新闻,通过 LLM 生成播客脚本,并利用文本转语音技术生成逼真的播客音频。
+🤖 这是一个基于人工智能的学术论文播客自动生成系统。该系统可以自动爬取最新的学术论文,通过 LLM 生成播客脚本,并利用文本转语音技术生成逼真的播客音频。
 
 ## ✨ 功能特点
 
-- 🔍 自动爬取 arXiv 等网站的最新科技新闻
+- 🔍 自动爬取 arXiv 网站的最新学术论文
 - 🧠 使用大语言模型生成结构化的播客对话脚本
 - 🎯 支持自定义关键词和时间范围的新闻筛选
 - 🗣️ 通过百度文本转语音 API 生成自然的播客音频
@@ -27,14 +27,14 @@
 
 ### 1️⃣ 克隆项目并安装依赖:
 ```bash
-git clone https://github.com/MJy1023/MyLLMPodcasts.git
-cd MyLLMPodcasts
+git clone https://github.com/MJy1023/MyArxivPodcast.git
+cd MyArxivPodcast
 pip install -r requirements.txt
 ```
 
 ### 2️⃣ 配置 API 密钥:
 在 `config.py` 中配置以下参数:
-- 🔑 LLM API 密钥 (支持智谱AI)
+- 🔑 LLM API 密钥 (支持智谱AI等)
 - 🎤 百度文本转语音 API 密钥
 - 🎯 目标网站和关键词设置
 
@@ -73,6 +73,17 @@ python main.py
 └── README.md           # 📖 项目说明文档
 ```
 
+## 🎧 Demo
+
+生成效果如下（具体生成要求可以自行调节prompt，例如可以要求其播客内容更加深入专业）：
+
+[Demo Podcast](output/20241028_112312/podcast.mp3)
+
+<audio controls>
+  <source src="output/20241028_112312/podcast.mp3" type="audio/mpeg">
+  Your browser does not support the audio element.
+</audio>
+
 ## 📄 许可证
 
 [MIT License](LICENSE)
@@ -95,18 +106,18 @@ python main.py
 
 如有任何问题或建议，欢迎通过以下方式联系：
 - 📧 Email: maojiayi1023@163.com
-- 💬 Issues: [GitHub Issues](https://github.com/MJy1023/MyLLMPodcasts/issues)
+- 💬 Issues: [GitHub Issues](https://github.com/MJy1023/MyArxivPodcast/issues)
 
 ---
 <a name="english"></a>
 
-# 🎙️ AI Tech News Podcast Generator
+# 🎙️ Arxiv Academic Paper Podcast Generator
 
-🤖 An AI-powered system that automatically generates tech news podcasts. It crawls the latest tech news, generates podcast scripts using LLM, and converts them into natural-sounding audio using text-to-speech technology.
+🤖 An AI-powered system that automatically generates academic paper podcasts. It crawls the latest academic papers, generates podcast scripts using LLM, and converts them into natural-sounding audio using text-to-speech technology.
 
 ## ✨ Features
 
-- 🔍 Automatically crawl tech news from sources like arXiv
+- 🔍 Automatically crawl academic papers from sources like arXiv
 - 🧠 Generate structured podcast scripts using LLM
 - 🎯 Customizable keywords and time range for news filtering
 - 🗣️ Natural podcast audio generation via Baidu TTS API
@@ -122,8 +133,8 @@ python main.py
 
 ### 1️⃣ Clone and Install:
 ```bash
-git clone https://github.com/MJy1023/MyLLMPodcasts.git
-cd MyLLMPodcasts
+git clone https://github.com/MJy1023/MyArxivPodcast.git
+cd MyArxivPodcast
 pip install -r requirements.txt
 ```
 
@@ -195,4 +206,16 @@ If you like this project, please give it a star! ✨
 
 For any questions or suggestions:
 - 📧 Email: maojiayi1023@163.com
-- 💬 Issues: [GitHub Issues](https://github.com/MJy1023/MyLLMPodcasts/issues)
+- 💬 Issues: [GitHub Issues](https://github.com/MJy1023/MyArxivPodcast/issues)
+
+## 🎧 Demo
+
+You can listen to the demo podcast here:
+
+[Demo Podcast](output/20241028_112312/podcast.mp3)
+
+<audio controls>
+  <source src="output/20241028_112312/podcast.mp3" type="audio/mpeg">
+  Your browser does not support the audio element.
+</audio>
+    
