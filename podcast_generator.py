@@ -24,7 +24,7 @@ class PodcastGenerator:
                     "Content-Type": "application/json"
                 }
                 data = {
-                    "model": "glm-4-plus",
+                    "model": config.LLM_MODLE,
                     "messages": [{"role": "user", "content": prompt}]
                 }
                 response = requests.post(self.api_url, headers=headers, data=json.dumps(data))
