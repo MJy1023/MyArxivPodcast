@@ -1,0 +1,967 @@
+[
+    {
+        "title": "Counting Ability of Large Language Models and Impact of Tokenization",
+        "url": "http://arxiv.org/abs/2410.19730v1",
+        "published_date": "2024-10-25"
+    },
+    {
+        "title": "FISHNET: Financial Intelligence from Sub-querying, Harmonizing, Neural-Conditioning, Expert Swarms, and Task Planning",
+        "url": "http://arxiv.org/abs/2410.19727v1",
+        "published_date": "2024-10-25"
+    },
+    {
+        "title": "2D-DPO: Scaling Direct Preference Optimization with 2-Dimensional Supervision",
+        "url": "http://arxiv.org/abs/2410.19720v1",
+        "published_date": "2024-10-25"
+    },
+    {
+        "title": "TimeSuite: Improving MLLMs for Long Video Understanding via Grounded Tuning",
+        "url": "http://arxiv.org/abs/2410.19702v1",
+        "published_date": "2024-10-25"
+    },
+    {
+        "title": "Less is More: Extreme Gradient Boost Rank-1 Adaption for Efficient Finetuning of LLMs",
+        "url": "http://arxiv.org/abs/2410.19694v1",
+        "published_date": "2024-10-25"
+    },
+    {
+        "title": "AGENT-CQ: Automatic Generation and Evaluation of Clarifying Questions for Conversational Search with LLMs",
+        "url": "http://arxiv.org/abs/2410.19692v1",
+        "published_date": "2024-10-25"
+    },
+    {
+        "title": "APRICOT: Active Preference Learning and Constraint-Aware Task Planning with LLMs",
+        "url": "http://arxiv.org/abs/2410.19656v1",
+        "published_date": "2024-10-25"
+    },
+    {
+        "title": "CoqPilot, a plugin for LLM-based generation of proofs",
+        "url": "http://arxiv.org/abs/2410.19605v1",
+        "published_date": "2024-10-25"
+    },
+    {
+        "title": "Take Caution in Using LLMs as Human Surrogates: Scylla Ex Machina",
+        "url": "http://arxiv.org/abs/2410.19599v1",
+        "published_date": "2024-10-25"
+    },
+    {
+        "title": "Diverse Sign Language Translation",
+        "url": "http://arxiv.org/abs/2410.19586v1",
+        "published_date": "2024-10-25"
+    },
+    {
+        "title": "ChunkRAG: Novel LLM-Chunk Filtering Method for RAG Systems",
+        "url": "http://arxiv.org/abs/2410.19572v1",
+        "published_date": "2024-10-25"
+    },
+    {
+        "title": "Brain-like Functional Organization within Large Language Models",
+        "url": "http://arxiv.org/abs/2410.19542v1",
+        "published_date": "2024-10-25"
+    },
+    {
+        "title": "Detection of Human and Machine-Authored Fake News in Urdu",
+        "url": "http://arxiv.org/abs/2410.19517v1",
+        "published_date": "2024-10-25"
+    },
+    {
+        "title": "SWITCH: Studying with Teacher for Knowledge Distillation of Large Language Models",
+        "url": "http://arxiv.org/abs/2410.19503v1",
+        "published_date": "2024-10-25"
+    },
+    {
+        "title": "Introducing MAPO: Momentum-Aided Gradient Descent Prompt Optimization",
+        "url": "http://arxiv.org/abs/2410.19499v1",
+        "published_date": "2024-10-25"
+    },
+    {
+        "title": "Graph Linearization Methods for Reasoning on Graphs with Large Language Models",
+        "url": "http://arxiv.org/abs/2410.19494v1",
+        "published_date": "2024-10-25"
+    },
+    {
+        "title": "A Debate-Driven Experiment on LLM Hallucinations and Accuracy",
+        "url": "http://arxiv.org/abs/2410.19485v1",
+        "published_date": "2024-10-25"
+    },
+    {
+        "title": "Measuring memorization through probabilistic discoverable extraction",
+        "url": "http://arxiv.org/abs/2410.19482v1",
+        "published_date": "2024-10-25"
+    },
+    {
+        "title": "EDGE: Enhanced Grounded GUI Understanding with Enriched Multi-Granularity Synthetic Data",
+        "url": "http://arxiv.org/abs/2410.19461v1",
+        "published_date": "2024-10-25"
+    },
+    {
+        "title": "Computational Bottlenecks of Training Small-scale Large Language Models",
+        "url": "http://arxiv.org/abs/2410.19456v1",
+        "published_date": "2024-10-25"
+    },
+    {
+        "title": "ShifCon: Enhancing Non-Dominant Language Capabilities with a Shift-based Contrastive Framework",
+        "url": "http://arxiv.org/abs/2410.19453v1",
+        "published_date": "2024-10-25"
+    },
+    {
+        "title": "Intelligent Understanding of Large Language Models in Traditional Chinese Medicine Based on Prompt Engineering Framework",
+        "url": "http://arxiv.org/abs/2410.19451v1",
+        "published_date": "2024-10-25"
+    },
+    {
+        "title": "KAHANI: Culturally-Nuanced Visual Storytelling Pipeline for Non-Western Cultures",
+        "url": "http://arxiv.org/abs/2410.19419v1",
+        "published_date": "2024-10-25"
+    },
+    {
+        "title": "Investigating the Role of Prompting and External Tools in Hallucination Rates of Large Language Models",
+        "url": "http://arxiv.org/abs/2410.19385v1",
+        "published_date": "2024-10-25"
+    },
+    {
+        "title": "Notes on the Mathematical Structure of GPT LLM Architectures",
+        "url": "http://arxiv.org/abs/2410.19370v1",
+        "published_date": "2024-10-25"
+    },
+    {
+        "title": "Interleaving Text and Number Embeddings to Solve Mathemathics Problems",
+        "url": "http://arxiv.org/abs/2410.19353v1",
+        "published_date": "2024-10-25"
+    },
+    {
+        "title": "AgentSense: Benchmarking Social Intelligence of Language Agents through Interactive Scenarios",
+        "url": "http://arxiv.org/abs/2410.19346v1",
+        "published_date": "2024-10-25"
+    },
+    {
+        "title": "Two are better than one: Context window extension with multi-grained self-injection",
+        "url": "http://arxiv.org/abs/2410.19318v1",
+        "published_date": "2024-10-25"
+    },
+    {
+        "title": "FairMT-Bench: Benchmarking Fairness for Multi-turn Dialogue in Conversational LLMs",
+        "url": "http://arxiv.org/abs/2410.19317v1",
+        "published_date": "2024-10-25"
+    },
+    {
+        "title": "Revealing and Reducing Gender Biases in Vision and Language Assistants (VLAs)",
+        "url": "http://arxiv.org/abs/2410.19314v1",
+        "published_date": "2024-10-25"
+    },
+    {
+        "title": "TEARS: Textual Representations for Scrutable Recommendations",
+        "url": "http://arxiv.org/abs/2410.19302v1",
+        "published_date": "2024-10-25"
+    },
+    {
+        "title": "Fictitious Synthetic Data Can Improve LLM Factuality via Prerequisite Learning",
+        "url": "http://arxiv.org/abs/2410.19290v1",
+        "published_date": "2024-10-25"
+    },
+    {
+        "title": "Ripple: Accelerating LLM Inference on Smartphones with Correlation-Aware Neuron Management",
+        "url": "http://arxiv.org/abs/2410.19274v1",
+        "published_date": "2024-10-25"
+    },
+    {
+        "title": "Autonomous Building Cyber-Physical Systems Using Decentralized Autonomous Organizations, Digital Twins, and Large Language Model",
+        "url": "http://arxiv.org/abs/2410.19262v1",
+        "published_date": "2024-10-25"
+    },
+    {
+        "title": "Not All Heads Matter: A Head-Level KV Cache Compression Method with Integrated Retrieval and Reasoning",
+        "url": "http://arxiv.org/abs/2410.19258v1",
+        "published_date": "2024-10-25"
+    },
+    {
+        "title": "The Reopening of Pandora's Box: Analyzing the Role of LLMs in the Evolving Battle Against AI-Generated Fake News",
+        "url": "http://arxiv.org/abs/2410.19250v1",
+        "published_date": "2024-10-25"
+    },
+    {
+        "title": "VisionCoder: Empowering Multi-Agent Auto-Programming for Image Processing with Hybrid LLMs",
+        "url": "http://arxiv.org/abs/2410.19245v1",
+        "published_date": "2024-10-25"
+    },
+    {
+        "title": "Designing LLM-Agents with Personalities: A Psychometric Approach",
+        "url": "http://arxiv.org/abs/2410.19238v1",
+        "published_date": "2024-10-25"
+    },
+    {
+        "title": "Developing a Tutoring Dialog Dataset to Optimize LLMs for Educational Use",
+        "url": "http://arxiv.org/abs/2410.19231v1",
+        "published_date": "2024-10-25"
+    },
+    {
+        "title": "Humanizing the Machine: Proxy Attacks to Mislead LLM Detectors",
+        "url": "http://arxiv.org/abs/2410.19230v1",
+        "published_date": "2024-10-25"
+    },
+    {
+        "title": "Integrating Large Language Models with Internet of Things Applications",
+        "url": "http://arxiv.org/abs/2410.19223v1",
+        "published_date": "2024-10-25"
+    },
+    {
+        "title": "Can Stories Help LLMs Reason? Curating Information Space Through Narrative",
+        "url": "http://arxiv.org/abs/2410.19221v1",
+        "published_date": "2024-10-25"
+    },
+    {
+        "title": "Inference time LLM alignment in single and multidomain preference spectrum",
+        "url": "http://arxiv.org/abs/2410.19206v1",
+        "published_date": "2024-10-24"
+    },
+    {
+        "title": "Prebunking Elections Rumors: Artificial Intelligence Assisted Interventions Increase Confidence in American Elections",
+        "url": "http://arxiv.org/abs/2410.19202v1",
+        "published_date": "2024-10-24"
+    },
+    {
+        "title": "Adversarial Attacks on Large Language Models Using Regularized Relaxation",
+        "url": "http://arxiv.org/abs/2410.19160v1",
+        "published_date": "2024-10-24"
+    },
+    {
+        "title": "Lived Experience Not Found: LLMs Struggle to Align with Experts on Addressing Adverse Drug Reactions from Psychiatric Medication Use",
+        "url": "http://arxiv.org/abs/2410.19155v1",
+        "published_date": "2024-10-24"
+    },
+    {
+        "title": "PDL: A Declarative Prompt Programming Language",
+        "url": "http://arxiv.org/abs/2410.19135v1",
+        "published_date": "2024-10-24"
+    },
+    {
+        "title": "AlignCap: Aligning Speech Emotion Captioning to Human Preferences",
+        "url": "http://arxiv.org/abs/2410.19134v1",
+        "published_date": "2024-10-24"
+    },
+    {
+        "title": "Retrieving Implicit and Explicit Emotional Events Using Large Language Models",
+        "url": "http://arxiv.org/abs/2410.19128v1",
+        "published_date": "2024-10-24"
+    },
+    {
+        "title": "Read-ME: Refactorizing LLMs as Router-Decoupled Mixture of Experts with System Co-Design",
+        "url": "http://arxiv.org/abs/2410.19123v1",
+        "published_date": "2024-10-24"
+    },
+    {
+        "title": "LLM Tree Search",
+        "url": "http://arxiv.org/abs/2410.19117v1",
+        "published_date": "2024-10-24"
+    },
+    {
+        "title": "LanFL: Differentially Private Federated Learning with Large Language Models using Synthetic Samples",
+        "url": "http://arxiv.org/abs/2410.19114v1",
+        "published_date": "2024-10-24"
+    },
+    {
+        "title": "TesseraQ: Ultra Low-Bit LLM Post-Training Quantization with Block Reconstruction",
+        "url": "http://arxiv.org/abs/2410.19103v1",
+        "published_date": "2024-10-24"
+    },
+    {
+        "title": "Watermarking Large Language Models and the Generated Content: Opportunities and Challenges",
+        "url": "http://arxiv.org/abs/2410.19096v1",
+        "published_date": "2024-10-24"
+    },
+    {
+        "title": "GCoder: Improving Large Language Model for Generalized Graph Problem Solving",
+        "url": "http://arxiv.org/abs/2410.19084v1",
+        "published_date": "2024-10-24"
+    },
+    {
+        "title": "From a Tiny Slip to a Giant Leap: An LLM-Based Simulation for Fake News Evolution",
+        "url": "http://arxiv.org/abs/2410.19064v1",
+        "published_date": "2024-10-24"
+    },
+    {
+        "title": "ReasonAgain: Using Extractable Symbolic Programs to Evaluate Mathematical Reasoning",
+        "url": "http://arxiv.org/abs/2410.19056v1",
+        "published_date": "2024-10-24"
+    },
+    {
+        "title": "Unbounded: A Generative Infinite Game of Character Life Simulation",
+        "url": "http://arxiv.org/abs/2410.18975v1",
+        "published_date": "2024-10-24"
+    },
+    {
+        "title": "Does Data Contamination Detection Work (Well) for LLMs? A Survey and Evaluation on Detection Assumptions",
+        "url": "http://arxiv.org/abs/2410.18966v1",
+        "published_date": "2024-10-24"
+    },
+    {
+        "title": "OSCAR: Operating System Control via State-Aware Reasoning and Re-Planning",
+        "url": "http://arxiv.org/abs/2410.18963v1",
+        "published_date": "2024-10-24"
+    },
+    {
+        "title": "Context is Key: A Benchmark for Forecasting with Essential Textual Information",
+        "url": "http://arxiv.org/abs/2410.18959v1",
+        "published_date": "2024-10-24"
+    },
+    {
+        "title": "Bridge-Coder: Unlocking LLMs' Potential to Overcome Language Gaps in Low-Resource Code",
+        "url": "http://arxiv.org/abs/2410.18957v1",
+        "published_date": "2024-10-24"
+    },
+    {
+        "title": "BioMistral-NLU: Towards More Generalizable Medical Language Understanding through Instruction Tuning",
+        "url": "http://arxiv.org/abs/2410.18955v1",
+        "published_date": "2024-10-24"
+    },
+    {
+        "title": "Dynamic Vocabulary Pruning in Early-Exit LLMs",
+        "url": "http://arxiv.org/abs/2410.18952v1",
+        "published_date": "2024-10-24"
+    },
+    {
+        "title": "SafeBench: A Safety Evaluation Framework for Multimodal Large Language Models",
+        "url": "http://arxiv.org/abs/2410.18927v1",
+        "published_date": "2024-10-24"
+    },
+    {
+        "title": "SegLLM: Multi-round Reasoning Segmentation",
+        "url": "http://arxiv.org/abs/2410.18923v1",
+        "published_date": "2024-10-24"
+    },
+    {
+        "title": "From Blind Solvers to Logical Thinkers: Benchmarking LLMs' Logical Integrity on Faulty Mathematical Problems",
+        "url": "http://arxiv.org/abs/2410.18921v1",
+        "published_date": "2024-10-24"
+    },
+    {
+        "title": "A Survey on Speech Large Language Models",
+        "url": "http://arxiv.org/abs/2410.18908v2",
+        "published_date": "2024-10-24"
+    },
+    {
+        "title": "PRISM: A Methodology for Auditing Biases in Large Language Models",
+        "url": "http://arxiv.org/abs/2410.18906v1",
+        "published_date": "2024-10-24"
+    },
+    {
+        "title": "LLMs for Extremely Low-Resource Finno-Ugric Languages",
+        "url": "http://arxiv.org/abs/2410.18902v1",
+        "published_date": "2024-10-24"
+    },
+    {
+        "title": "Creating and Repairing Robot Programs in Open-World Domains",
+        "url": "http://arxiv.org/abs/2410.18893v1",
+        "published_date": "2024-10-24"
+    },
+    {
+        "title": "Improving Small-Scale Large Language Models Function Calling for Reasoning Tasks",
+        "url": "http://arxiv.org/abs/2410.18890v1",
+        "published_date": "2024-10-24"
+    },
+    {
+        "title": "Are LLMs Better than Reported? Detecting Label Errors and Mitigating Their Effect on Model Performance",
+        "url": "http://arxiv.org/abs/2410.18889v1",
+        "published_date": "2024-10-24"
+    },
+    {
+        "title": "End-to-end Training for Recommendation with Language-based User Profiles",
+        "url": "http://arxiv.org/abs/2410.18870v1",
+        "published_date": "2024-10-24"
+    },
+    {
+        "title": "Provably Robust Watermarks for Open-Source Language Models",
+        "url": "http://arxiv.org/abs/2410.18861v1",
+        "published_date": "2024-10-24"
+    },
+    {
+        "title": "DeCoRe: Decoding by Contrasting Retrieval Heads to Mitigate Hallucinations",
+        "url": "http://arxiv.org/abs/2410.18860v1",
+        "published_date": "2024-10-24"
+    },
+    {
+        "title": "Demystifying Large Language Models for Medicine: A Primer",
+        "url": "http://arxiv.org/abs/2410.18856v1",
+        "published_date": "2024-10-24"
+    },
+    {
+        "title": "From English-Centric to Effective Bilingual: LLMs with Custom Tokenizers for Underrepresented Languages",
+        "url": "http://arxiv.org/abs/2410.18836v1",
+        "published_date": "2024-10-24"
+    },
+    {
+        "title": "PSY: Posterior Sampling Based Privacy Enhancer in Large Language Models",
+        "url": "http://arxiv.org/abs/2410.18824v1",
+        "published_date": "2024-10-24"
+    },
+    {
+        "title": "Delving into the Reversal Curse: How Far Can Large Language Models Generalize?",
+        "url": "http://arxiv.org/abs/2410.18808v1",
+        "published_date": "2024-10-24"
+    },
+    {
+        "title": "Distill Visual Chart Reasoning Ability from LLMs to MLLMs",
+        "url": "http://arxiv.org/abs/2410.18798v1",
+        "published_date": "2024-10-24"
+    },
+    {
+        "title": "An LLM Agent for Automatic Geospatial Data Analysis",
+        "url": "http://arxiv.org/abs/2410.18792v2",
+        "published_date": "2024-10-24"
+    },
+    {
+        "title": "Large Generative AI Models meet Open Networks for 6G: Integration, Platform, and Monetization",
+        "url": "http://arxiv.org/abs/2410.18790v1",
+        "published_date": "2024-10-24"
+    },
+    {
+        "title": "A Little Help Goes a Long Way: Efficient LLM Training by Leveraging Small LMs",
+        "url": "http://arxiv.org/abs/2410.18779v1",
+        "published_date": "2024-10-24"
+    },
+    {
+        "title": "Task Calibration: Calibrating Large Language Models on Inference Tasks",
+        "url": "http://arxiv.org/abs/2410.18764v1",
+        "published_date": "2024-10-24"
+    },
+    {
+        "title": "Does Differential Privacy Impact Bias in Pretrained NLP Models?",
+        "url": "http://arxiv.org/abs/2410.18749v1",
+        "published_date": "2024-10-24"
+    },
+    {
+        "title": "Why Does the Effective Context Length of LLMs Fall Short?",
+        "url": "http://arxiv.org/abs/2410.18745v1",
+        "published_date": "2024-10-24"
+    },
+    {
+        "title": "LLM-based Online Prediction of Time-varying Graph Signals",
+        "url": "http://arxiv.org/abs/2410.18718v1",
+        "published_date": "2024-10-24"
+    },
+    {
+        "title": "Whose fault is it anyway? SILC: Safe Integration of LLM-Generated Code",
+        "url": "http://arxiv.org/abs/2410.18703v1",
+        "published_date": "2024-10-24"
+    },
+    {
+        "title": "GrammaMT: Improving Machine Translation with Grammar-Informed In-Context Learning",
+        "url": "http://arxiv.org/abs/2410.18702v1",
+        "published_date": "2024-10-24"
+    },
+    {
+        "title": "BATON: Enhancing Batch-wise Inference Efficiency for Large Language Models via Dynamic Re-batching",
+        "url": "http://arxiv.org/abs/2410.18701v1",
+        "published_date": "2024-10-24"
+    },
+    {
+        "title": "How Good Are LLMs for Literary Translation, Really? Literary Translation Evaluation with Humans and LLMs",
+        "url": "http://arxiv.org/abs/2410.18697v1",
+        "published_date": "2024-10-24"
+    },
+    {
+        "title": "Unleashing Reasoning Capability of LLMs via Scalable Question Synthesis from Scratch",
+        "url": "http://arxiv.org/abs/2410.18693v1",
+        "published_date": "2024-10-24"
+    },
+    {
+        "title": "Large Language Models for Financial Aid in Financial Time-series Forecasting",
+        "url": "http://arxiv.org/abs/2410.19025v1",
+        "published_date": "2024-10-24"
+    },
+    {
+        "title": "Hierarchical Multimodal LLMs with Semantic Space Alignment for Enhanced Time Series Classification",
+        "url": "http://arxiv.org/abs/2410.18686v1",
+        "published_date": "2024-10-24"
+    },
+    {
+        "title": "$C^2$: Scalable Auto-Feedback for LLM-based Chart Generation",
+        "url": "http://arxiv.org/abs/2410.18652v2",
+        "published_date": "2024-10-24"
+    },
+    {
+        "title": "Smart ETL and LLM-based contents classification: the European Smart Tourism Tools Observatory experience",
+        "url": "http://arxiv.org/abs/2410.18641v1",
+        "published_date": "2024-10-24"
+    },
+    {
+        "title": "Prompting and Fine-Tuning of Small LLMs for Length-Controllable Telephone Call Summarization",
+        "url": "http://arxiv.org/abs/2410.18624v1",
+        "published_date": "2024-10-24"
+    },
+    {
+        "title": "Knowledge Distillation Using Frontier Open-source LLMs: Generalizability and the Role of Synthetic Data",
+        "url": "http://arxiv.org/abs/2410.18588v1",
+        "published_date": "2024-10-24"
+    },
+    {
+        "title": "Aligning CodeLLMs with Direct Preference Optimization",
+        "url": "http://arxiv.org/abs/2410.18585v1",
+        "published_date": "2024-10-24"
+    },
+    {
+        "title": "FISHNET: Financial Intelligence from Sub-querying, Harmonizing, Neural-Conditioning, Expert Swarms, and Task Planning",
+        "url": "http://arxiv.org/abs/2410.19727v1",
+        "published_date": "2024-10-25"
+    },
+    {
+        "title": "Evolving Neural Networks Reveal Emergent Collective Behavior from Minimal Agent Interactions",
+        "url": "http://arxiv.org/abs/2410.19718v1",
+        "published_date": "2024-10-25"
+    },
+    {
+        "title": "Adversarial Environment Design via Regret-Guided Diffusion Models",
+        "url": "http://arxiv.org/abs/2410.19715v1",
+        "published_date": "2024-10-25"
+    },
+    {
+        "title": "Robust Thompson Sampling Algorithms Against Reward Poisoning Attacks",
+        "url": "http://arxiv.org/abs/2410.19705v1",
+        "published_date": "2024-10-25"
+    },
+    {
+        "title": "AGENT-CQ: Automatic Generation and Evaluation of Clarifying Questions for Conversational Search with LLMs",
+        "url": "http://arxiv.org/abs/2410.19692v1",
+        "published_date": "2024-10-25"
+    },
+    {
+        "title": "The Sound of Silence in Social Networks",
+        "url": "http://arxiv.org/abs/2410.19685v1",
+        "published_date": "2024-10-25"
+    },
+    {
+        "title": "Optimizing Hearthstone Agents using an Evolutionary Algorithm",
+        "url": "http://arxiv.org/abs/2410.19681v1",
+        "published_date": "2024-10-25"
+    },
+    {
+        "title": "MetaTrading: An Immersion-Aware Model Trading Framework for Vehicular Metaverse Services",
+        "url": "http://arxiv.org/abs/2410.19665v1",
+        "published_date": "2024-10-25"
+    },
+    {
+        "title": "Planning-Aware Diffusion Networks for Enhanced Motion Forecasting in Autonomous Driving",
+        "url": "http://arxiv.org/abs/2410.19639v1",
+        "published_date": "2024-10-25"
+    },
+    {
+        "title": "Knowledge Graph Enhanced Language Agents for Recommendation",
+        "url": "http://arxiv.org/abs/2410.19627v1",
+        "published_date": "2024-10-25"
+    },
+    {
+        "title": "Shared Control with Black Box Agents using Oracle Queries",
+        "url": "http://arxiv.org/abs/2410.19612v1",
+        "published_date": "2024-10-25"
+    },
+    {
+        "title": "OpenWebVoyager: Building Multimodal Web Agents via Iterative Real-World Exploration, Feedback and Optimization",
+        "url": "http://arxiv.org/abs/2410.19609v1",
+        "published_date": "2024-10-25"
+    },
+    {
+        "title": "PMM-Net: Single-stage Multi-agent Trajectory Prediction with Patching-based Embedding and Explicit Modal Modulation",
+        "url": "http://arxiv.org/abs/2410.19544v1",
+        "published_date": "2024-10-25"
+    },
+    {
+        "title": "AgentForge: A Flexible Low-Code Platform for Reinforcement Learning Agent Design",
+        "url": "http://arxiv.org/abs/2410.19528v1",
+        "published_date": "2024-10-25"
+    },
+    {
+        "title": "Efficient D-2-D with a Strong Group: Arbitrary Initial Configuration and No Global Knowledge",
+        "url": "http://arxiv.org/abs/2410.19468v1",
+        "published_date": "2024-10-25"
+    },
+    {
+        "title": "EDGE: Enhanced Grounded GUI Understanding with Enriched Multi-Granularity Synthetic Data",
+        "url": "http://arxiv.org/abs/2410.19461v1",
+        "published_date": "2024-10-25"
+    },
+    {
+        "title": "A Distributed Time-Varying Optimization Approach Based on an Event-Triggered Scheme",
+        "url": "http://arxiv.org/abs/2410.19458v1",
+        "published_date": "2024-10-25"
+    },
+    {
+        "title": "Offline-to-Online Multi-Agent Reinforcement Learning with Offline Value Function Memory and Sequential Exploration",
+        "url": "http://arxiv.org/abs/2410.19450v1",
+        "published_date": "2024-10-25"
+    },
+    {
+        "title": "Evolving choice hysteresis in reinforcement learning: comparing the adaptive value of positivity bias and gradual perseveration",
+        "url": "http://arxiv.org/abs/2410.19434v1",
+        "published_date": "2024-10-25"
+    },
+    {
+        "title": "Robust Time Series Causal Discovery for Agent-Based Model Validation",
+        "url": "http://arxiv.org/abs/2410.19412v1",
+        "published_date": "2024-10-25"
+    },
+    {
+        "title": "Offline Reinforcement Learning with OOD State Correction and OOD Action Suppression",
+        "url": "http://arxiv.org/abs/2410.19400v1",
+        "published_date": "2024-10-25"
+    },
+    {
+        "title": "Investigating the Role of Prompting and External Tools in Hallucination Rates of Large Language Models",
+        "url": "http://arxiv.org/abs/2410.19385v1",
+        "published_date": "2024-10-25"
+    },
+    {
+        "title": "Learning Neural Strategy-Proof Matching Mechanism from Examples",
+        "url": "http://arxiv.org/abs/2410.19384v1",
+        "published_date": "2024-10-25"
+    },
+    {
+        "title": "Multi-Agent Reinforcement Learning with Selective State-Space Models",
+        "url": "http://arxiv.org/abs/2410.19382v1",
+        "published_date": "2024-10-25"
+    },
+    {
+        "title": "Gaze estimation learning architecture as support to affective, social and cognitive studies in natural human-robot interaction",
+        "url": "http://arxiv.org/abs/2410.19374v1",
+        "published_date": "2024-10-25"
+    },
+    {
+        "title": "Toward Finding Strong Pareto Optimal Policies in Multi-Agent Reinforcement Learning",
+        "url": "http://arxiv.org/abs/2410.19372v1",
+        "published_date": "2024-10-25"
+    },
+    {
+        "title": "Joint User Scheduling and Precoding for RIS-Aided MU-MISO Systems: A MADRL Approach",
+        "url": "http://arxiv.org/abs/2410.19359v1",
+        "published_date": "2024-10-25"
+    },
+    {
+        "title": "AgentSense: Benchmarking Social Intelligence of Language Agents through Interactive Scenarios",
+        "url": "http://arxiv.org/abs/2410.19346v1",
+        "published_date": "2024-10-25"
+    },
+    {
+        "title": "Fully First-Order Methods for Decentralized Bilevel Optimization",
+        "url": "http://arxiv.org/abs/2410.19319v1",
+        "published_date": "2024-10-25"
+    },
+    {
+        "title": "Semantics in Robotics: Environmental Data Can't Yield Conventions of Human Behaviour",
+        "url": "http://arxiv.org/abs/2410.19308v1",
+        "published_date": "2024-10-25"
+    },
+    {
+        "title": "VisionCoder: Empowering Multi-Agent Auto-Programming for Image Processing with Hybrid LLMs",
+        "url": "http://arxiv.org/abs/2410.19245v1",
+        "published_date": "2024-10-25"
+    },
+    {
+        "title": "Designing LLM-Agents with Personalities: A Psychometric Approach",
+        "url": "http://arxiv.org/abs/2410.19238v1",
+        "published_date": "2024-10-25"
+    },
+    {
+        "title": "Stochastic dynamic programming under recursive Epstein-Zin preferences",
+        "url": "http://arxiv.org/abs/2410.19181v1",
+        "published_date": "2024-10-24"
+    },
+    {
+        "title": "Cascading Failure Prediction via Causal Inference",
+        "url": "http://arxiv.org/abs/2410.19179v1",
+        "published_date": "2024-10-24"
+    },
+    {
+        "title": "Quantum Probabilities Are Objective Degrees of Epistemic Justification",
+        "url": "http://arxiv.org/abs/2410.19175v1",
+        "published_date": "2024-10-24"
+    },
+    {
+        "title": "MMAU: A Massive Multi-Task Audio Understanding and Reasoning Benchmark",
+        "url": "http://arxiv.org/abs/2410.19168v1",
+        "published_date": "2024-10-24"
+    },
+    {
+        "title": "Fairness and Efficiency in Online Class Matching",
+        "url": "http://arxiv.org/abs/2410.19163v1",
+        "published_date": "2024-10-24"
+    },
+    {
+        "title": "Context-Aware Trajectory Anomaly Detection",
+        "url": "http://arxiv.org/abs/2410.19136v1",
+        "published_date": "2024-10-24"
+    },
+    {
+        "title": "PDL: A Declarative Prompt Programming Language",
+        "url": "http://arxiv.org/abs/2410.19135v1",
+        "published_date": "2024-10-24"
+    },
+    {
+        "title": "Quantifying the Value of Revert Protection",
+        "url": "http://arxiv.org/abs/2410.19106v1",
+        "published_date": "2024-10-24"
+    },
+    {
+        "title": "VideoWebArena: Evaluating Long Context Multimodal Agents with Video Understanding Web Tasks",
+        "url": "http://arxiv.org/abs/2410.19100v1",
+        "published_date": "2024-10-24"
+    },
+    {
+        "title": "From a Tiny Slip to a Giant Leap: An LLM-Based Simulation for Fake News Evolution",
+        "url": "http://arxiv.org/abs/2410.19064v1",
+        "published_date": "2024-10-24"
+    },
+    {
+        "title": "Infogent: An Agent-Based Framework for Web Information Aggregation",
+        "url": "http://arxiv.org/abs/2410.19054v1",
+        "published_date": "2024-10-24"
+    },
+    {
+        "title": "Learning to Look: Seeking Information for Decision Making via Policy Factorization",
+        "url": "http://arxiv.org/abs/2410.18964v1",
+        "published_date": "2024-10-24"
+    },
+    {
+        "title": "OSCAR: Operating System Control via State-Aware Reasoning and Re-Planning",
+        "url": "http://arxiv.org/abs/2410.18963v1",
+        "published_date": "2024-10-24"
+    },
+    {
+        "title": "Schema-Guided Culture-Aware Complex Event Simulation with Multi-Agent Role-Play",
+        "url": "http://arxiv.org/abs/2410.18935v1",
+        "published_date": "2024-10-24"
+    },
+    {
+        "title": "SkillMimicGen: Automated Demonstration Generation for Efficient Skill Learning and Deployment",
+        "url": "http://arxiv.org/abs/2410.18907v1",
+        "published_date": "2024-10-24"
+    },
+    {
+        "title": "Improving Small-Scale Large Language Models Function Calling for Reasoning Tasks",
+        "url": "http://arxiv.org/abs/2410.18890v1",
+        "published_date": "2024-10-24"
+    },
+    {
+        "title": "Learning Collusion in Episodic, Inventory-Constrained Markets",
+        "url": "http://arxiv.org/abs/2410.18871v1",
+        "published_date": "2024-10-24"
+    },
+    {
+        "title": "An LLM Agent for Automatic Geospatial Data Analysis",
+        "url": "http://arxiv.org/abs/2410.18792v2",
+        "published_date": "2024-10-24"
+    },
+    {
+        "title": "Applying Neural Monte Carlo Tree Search to Unsignalized Multi-intersection Scheduling for Autonomous Vehicles",
+        "url": "http://arxiv.org/abs/2410.18786v1",
+        "published_date": "2024-10-24"
+    },
+    {
+        "title": "Active Target Tracking Using Bearing-only Measurements With Gaussian Process Learning",
+        "url": "http://arxiv.org/abs/2410.18669v1",
+        "published_date": "2024-10-24"
+    },
+    {
+        "title": "Approximate EFX and Exact tEFX Allocations for Indivisible Chores: Improved Algorithms",
+        "url": "http://arxiv.org/abs/2410.18655v1",
+        "published_date": "2024-10-24"
+    },
+    {
+        "title": "A distributed and parallel $(k, n)$ QSS scheme with verification capability",
+        "url": "http://arxiv.org/abs/2410.18643v1",
+        "published_date": "2024-10-24"
+    },
+    {
+        "title": "Moving Object Segmentation in Point Cloud Data using Hidden Markov Models",
+        "url": "http://arxiv.org/abs/2410.18638v1",
+        "published_date": "2024-10-24"
+    },
+    {
+        "title": "Multi-agent cooperation through learning-aware policy gradients",
+        "url": "http://arxiv.org/abs/2410.18636v1",
+        "published_date": "2024-10-24"
+    },
+    {
+        "title": "Leveraging Graph Neural Networks and Multi-Agent Reinforcement Learning for Inventory Control in Supply Chains",
+        "url": "http://arxiv.org/abs/2410.18631v1",
+        "published_date": "2024-10-24"
+    },
+    {
+        "title": "Evolutionary Dispersal of Ecological Species via Multi-Agent Deep Reinforcement Learning",
+        "url": "http://arxiv.org/abs/2410.18621v1",
+        "published_date": "2024-10-24"
+    },
+    {
+        "title": "AgentStore: Scalable Integration of Heterogeneous Agents As Specialized Generalist Computer Assistant",
+        "url": "http://arxiv.org/abs/2410.18603v1",
+        "published_date": "2024-10-24"
+    },
+    {
+        "title": "Incentives for Early Arrival in Cost Sharing",
+        "url": "http://arxiv.org/abs/2410.18586v1",
+        "published_date": "2024-10-24"
+    },
+    {
+        "title": "PRACT: Optimizing Principled Reasoning and Acting of LLM Agent",
+        "url": "http://arxiv.org/abs/2410.18528v1",
+        "published_date": "2024-10-24"
+    },
+    {
+        "title": "LLM as a code generator in Agile Model Driven Development",
+        "url": "http://arxiv.org/abs/2410.18489v1",
+        "published_date": "2024-10-24"
+    },
+    {
+        "title": "Bearing-Only Solution for Fermat-Weber Location Problem: Generalized Algorithms",
+        "url": "http://arxiv.org/abs/2410.18470v1",
+        "published_date": "2024-10-24"
+    },
+    {
+        "title": "Learn 2 Rage: Experiencing The Emotional Roller Coaster That Is Reinforcement Learning",
+        "url": "http://arxiv.org/abs/2410.18462v1",
+        "published_date": "2024-10-24"
+    },
+    {
+        "title": "ToolFlow: Boosting LLM Tool-Calling Through Natural and Coherent Dialogue Synthesis",
+        "url": "http://arxiv.org/abs/2410.18447v1",
+        "published_date": "2024-10-24"
+    },
+    {
+        "title": "Observer-Based Event-Triggered Secure Consensus Control for Multi-Agent Systems",
+        "url": "http://arxiv.org/abs/2410.18440v1",
+        "published_date": "2024-10-24"
+    },
+    {
+        "title": "SkiLD: Unsupervised Skill Discovery Guided by Factor Interactions",
+        "url": "http://arxiv.org/abs/2410.18416v1",
+        "published_date": "2024-10-24"
+    },
+    {
+        "title": "Inference on High Dimensional Selective Labeling Models",
+        "url": "http://arxiv.org/abs/2410.18381v1",
+        "published_date": "2024-10-24"
+    },
+    {
+        "title": "Countering Autonomous Cyber Threats",
+        "url": "http://arxiv.org/abs/2410.18312v1",
+        "published_date": "2024-10-23"
+    },
+    {
+        "title": "Hybrid Quantum-Classical Reinforcement Learning in Latent Observation Spaces",
+        "url": "http://arxiv.org/abs/2410.18284v1",
+        "published_date": "2024-10-23"
+    },
+    {
+        "title": "Navigating the Landscape of Reproducible Research: A Predictive Modeling Approach",
+        "url": "http://arxiv.org/abs/2410.18276v1",
+        "published_date": "2024-10-23"
+    },
+    {
+        "title": "Human-Agent Coordination in Games under Incomplete Information via Multi-Step Intent",
+        "url": "http://arxiv.org/abs/2410.18242v1",
+        "published_date": "2024-10-23"
+    },
+    {
+        "title": "Periodic portfolio selection with quasi-hyperbolic discounting",
+        "url": "http://arxiv.org/abs/2410.18240v1",
+        "published_date": "2024-10-23"
+    },
+    {
+        "title": "PyTSC: A Unified Platform for Multi-Agent Reinforcement Learning in Traffic Signal Control",
+        "url": "http://arxiv.org/abs/2410.18202v1",
+        "published_date": "2024-10-23"
+    },
+    {
+        "title": "Personalized Instance-based Navigation Toward User-Specific Objects in Realistic Environments",
+        "url": "http://arxiv.org/abs/2410.18195v1",
+        "published_date": "2024-10-23"
+    },
+    {
+        "title": "What resources do agents need to acquire knowledge in Quantum Thermodynamics?",
+        "url": "http://arxiv.org/abs/2410.18167v1",
+        "published_date": "2024-10-23"
+    },
+    {
+        "title": "Prioritized Generative Replay",
+        "url": "http://arxiv.org/abs/2410.18082v1",
+        "published_date": "2024-10-23"
+    },
+    {
+        "title": "The Double-Edged Sword of Behavioral Responses in Strategic Classification: Theory and User Studies",
+        "url": "http://arxiv.org/abs/2410.18066v2",
+        "published_date": "2024-10-23"
+    },
+    {
+        "title": "SPIRE: Synergistic Planning, Imitation, and Reinforcement Learning for Long-Horizon Manipulation",
+        "url": "http://arxiv.org/abs/2410.18065v1",
+        "published_date": "2024-10-23"
+    },
+    {
+        "title": "A Comparative Assessment of Technology Acceptance and Learning Outcomes in Computer-based versus VR-based Pedagogical Agents",
+        "url": "http://arxiv.org/abs/2410.18048v1",
+        "published_date": "2024-10-23"
+    },
+    {
+        "title": "GraphTeam: Facilitating Large Language Model-based Graph Analysis via Multi-Agent Collaboration",
+        "url": "http://arxiv.org/abs/2410.18032v1",
+        "published_date": "2024-10-23"
+    },
+    {
+        "title": "MiniFed : Integrating LLM-based Agentic-Workflow for Simulating FOMC Meeting",
+        "url": "http://arxiv.org/abs/2410.18012v2",
+        "published_date": "2024-10-23"
+    },
+    {
+        "title": "Dynamic models of gentrification",
+        "url": "http://arxiv.org/abs/2410.18004v1",
+        "published_date": "2024-10-23"
+    },
+    {
+        "title": "POMDP-Driven Cognitive Massive MIMO Radar: Joint Target Detection-Tracking In Unknown Disturbances",
+        "url": "http://arxiv.org/abs/2410.17967v1",
+        "published_date": "2024-10-23"
+    },
+    {
+        "title": "On Regularity and Normalization in Sequential Screening",
+        "url": "http://arxiv.org/abs/2410.17962v1",
+        "published_date": "2024-10-23"
+    },
+    {
+        "title": "Guide for Defense (G4D): Dynamic Guidance for Robust and Balanced Defense in Large Language Models",
+        "url": "http://arxiv.org/abs/2410.17922v1",
+        "published_date": "2024-10-23"
+    },
+    {
+        "title": "Reinforcement Learning under Latent Dynamics: Toward Statistical and Algorithmic Modularity",
+        "url": "http://arxiv.org/abs/2410.17904v1",
+        "published_date": "2024-10-23"
+    },
+    {
+        "title": "Scalable Offline Reinforcement Learning for Mean Field Games",
+        "url": "http://arxiv.org/abs/2410.17898v1",
+        "published_date": "2024-10-23"
+    },
+    {
+        "title": "Lightweight Neural App Control",
+        "url": "http://arxiv.org/abs/2410.17883v1",
+        "published_date": "2024-10-23"
+    },
+    {
+        "title": "Analysis of Parallel Boarding Methods in a Multi-Aisle Flying Wing Aircraft",
+        "url": "http://arxiv.org/abs/2410.17870v2",
+        "published_date": "2024-10-23"
+    },
+    {
+        "title": "ROCKET-1: Master Open-World Interaction with Visual-Temporal Context Prompting",
+        "url": "http://arxiv.org/abs/2410.17856v1",
+        "published_date": "2024-10-23"
+    },
+    {
+        "title": "An Intelligent Agentic System for Complex Image Restoration Problems",
+        "url": "http://arxiv.org/abs/2410.17809v1",
+        "published_date": "2024-10-23"
+    },
+    {
+        "title": "TranSPORTmer: A Holistic Approach to Trajectory Understanding in Multi-Agent Sports",
+        "url": "http://arxiv.org/abs/2410.17785v1",
+        "published_date": "2024-10-23"
+    }
+]
