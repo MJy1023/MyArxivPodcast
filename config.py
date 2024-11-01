@@ -24,6 +24,24 @@ PODCAST_AUDIO_DIR = "output/podcasts"
 # Language settings
 LANGUAGE = "zh"  # Change to "en" for English
 
+# Section names for different languages
+SECTION_NAMES = {
+    "en": {
+        "RESEARCH_BACKGROUND": "Research Background & Motivation",
+        "TECHNICAL_INNOVATION": "Technical Innovation & Methodology",
+        "EXPERIMENTAL_RESULTS": "Experimental Results Analysis",
+        "INDUSTRY_IMPACT": "Industry Impact & Future Prospects",
+        "SUMMARY": "Summary"
+    },
+    "zh": {
+        "RESEARCH_BACKGROUND": "研究背景与动机",
+        "TECHNICAL_INNOVATION": "技术创新与方法",
+        "EXPERIMENTAL_RESULTS": "实验结果分析",
+        "INDUSTRY_IMPACT": "行业影响与展望",
+        "SUMMARY": "总结"
+    }
+}
+
 # Voice ID mappings for different languages
 VOICE_IDS = {
     "en": {

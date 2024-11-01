@@ -39,9 +39,40 @@ pip install -r requirements.txt
 - 🎯 目标网站和关键词设置
 
 ### 3️⃣ 运行程序:
+
+支持两种运行模式：
+
+#### 批量生成模式
 ```bash
-python main.py
+# 生成中文播客
+python main.py --mode batch --language zh
+
+# 生成英文播客
+python main.py --mode batch --language en
 ```
+
+#### 单篇文章模式
+```bash
+# 通过主题生成中文播客
+python main.py --mode single --language zh --topic "LLM Agent"
+
+# 通过文章ID生成英文播客
+python main.py --mode single --language en --identifier "2401.xxxxx"
+
+# 通过标题搜索生成播客
+python main.py --mode single --language zh --title "论文标题"
+```
+
+#### 命令行参数说明:
+- `--mode`: 选择生成模式
+  - `batch`: 批量生成多篇文章的播客
+  - `single`: 生成单篇文章的详细播客
+- `--language`: 选择语言
+  - `zh`: 中文
+  - `en`: 英文
+- `--topic`: 文章主题（单篇模式）
+- `--identifier`: 文章ID（单篇模式可选）
+- `--title`: 文章标题（单篇模式可选）
 
 ## 📂 输出内容
 
@@ -147,9 +178,40 @@ Then configure in `config.py`:
 - 🎯 Other settings...
 
 ### 3️⃣ Run:
+
+The program supports two running modes:
+
+#### Batch Generation Mode
 ```bash
-python main.py
+# Generate Chinese podcast
+python main.py --mode batch --language zh
+
+# Generate English podcast
+python main.py --mode batch --language en
 ```
+
+#### Single Article Mode
+```bash
+# Generate Chinese podcast by topic
+python main.py --mode single --language zh --topic "LLM Agent"
+
+# Generate English podcast by article ID
+python main.py --mode single --language en --identifier "2401.xxxxx"
+
+# Generate podcast by article title
+python main.py --mode single --language zh --title "paper title"
+```
+
+#### Command Line Arguments:
+- `--mode`: Generation mode
+  - `batch`: Generate podcast for multiple articles
+  - `single`: Generate detailed podcast for a single article
+- `--language`: Language selection
+  - `zh`: Chinese
+  - `en`: English
+- `--topic`: Article topic (single mode)
+- `--identifier`: Article ID (optional for single mode)
+- `--title`: Article title (optional for single mode)
 
 ## 📂 Output
 
